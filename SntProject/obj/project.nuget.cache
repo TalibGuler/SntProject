@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "G2FccZqMPZQZeVbiEaDVkRKApgQ9cAQ4Rn3dLxKDQJ418cUwCLHbNUr9Ov3fpGf+rgtlLnrypp2XfVSKLVuFHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\talib\\source\\repos\\SntProject\\SntProject\\SntProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\talib\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
