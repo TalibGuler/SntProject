@@ -4,12 +4,3 @@ Gelen veriyi işleyerek "close" değerlerini grafik üzerinde gösteren bir çal
 İstek atacağınız adres: https://www.alphavantage.co/query?function=TIME_SERIES_INTRADAY&symbol=IBM&interval=5min&apikey=demo
 
 <img src="https://github.com/TalibGuler/SntProject/blob/main/image/SNT.png" alt="alt text" width="964">
-
-<img
-src=“image/SNT.png”
-raw=true
-alt=“Subject Pronouns”
-style=“margin-right: 10px;”
-/>
-
-![Test Image 4]([https://github.com/tograh/testrepository/3DTest.png](https://github.com/TalibGuler/SntProject/blob/main/image/SNT.png) 112)
