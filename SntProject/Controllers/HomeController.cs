@@ -35,7 +35,7 @@ namespace SntProject.Controllers
 
             foreach (var item in stock.TimeSeries5min)
             {
-                var y = double.Parse(item.Value._4close, CultureInfo.InvariantCulture);
+                var y = double.Parse(item.Value.Close, CultureInfo.InvariantCulture);
 
                 dataPoints.Add(new DataPoint(i, y));
                 i++;
